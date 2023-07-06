@@ -18,3 +18,6 @@ Digitar "cd" + nome da pasta para selecionar onde salvar
 Quando chegar na pasta desejada para salvar, usando o "cd"
 Use git clone + link do repositorio 
 Pronto!
+
+PARA ATUALIZAR UM PROJETO QUE JA ESTÁ CLONADO NO MEU PC
+git pull origin main -> verificaçoes das versoes e atualizaçao do código
